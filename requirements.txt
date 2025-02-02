@@ -12,3 +12,4 @@ altair
 bokeh
 plotnine
 nbformat
+tabulate0
