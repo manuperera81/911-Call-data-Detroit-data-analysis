@@ -12,4 +12,6 @@ altair
 bokeh
 plotnine
 nbformat
-tabulate0
+tabulate
+folium
+geopandas
