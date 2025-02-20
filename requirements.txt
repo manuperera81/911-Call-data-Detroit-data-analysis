@@ -7,3 +7,11 @@ openpyxl
 pyarrow
 pyjanitor
 ipykernel
+plotly
+altair
+bokeh
+plotnine
+nbformat
+tabulate
+folium
+geopandas
